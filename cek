@@ -1,0 +1,30 @@
+<!DOCTYPE html><html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Mending Turu 🗿</title>
+  <style>
+    body {
+      margin: 0;
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background: linear-gradient(135deg, #1e1e2f, #111);
+      color: white;
+      font-family: Arial, sans-serif;
+      font-size: 3rem;
+    }
+    h1 {
+      animation: fadeIn 2s ease-in-out infinite alternate;
+    }
+    @keyframes fadeIn {
+      from { opacity: 0.3; transform: scale(0.95); }
+      to { opacity: 1; transform: scale(1.05); }
+    }
+  </style>
+</head>
+<body>
+  <h1>Mending turu 🗿</h1>
+</body>
+</html>
